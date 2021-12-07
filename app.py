@@ -11,3 +11,4 @@ while True:
     if saat == "21:27:00":
         alarm()
         break
+#yeni satır
